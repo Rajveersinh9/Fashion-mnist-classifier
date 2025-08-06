@@ -46,15 +46,12 @@ This project simulates unstructured data analysis using machine learning. It dem
 
 1. Install dependencies:
 
-```bash
+
 pip install tensorflow numpy matplotlib pillow
  
 ---
 
-### ✅ 2. Example Output (optional but powerful):
-
-```markdown
-## 📈 Example Output
+## 📈 2. Example Output:
 
 Test accuracy: 0.8921
 Predicted label: Sneaker
